@@ -96,11 +96,11 @@ function GroceryInput() {
         ></input>
 
         <button id="add-btn" className="btn" type="submit">
-          ADD
+          Add
         </button>
 
         <button className="btn" type="button" onClick={clearAll}>
-          Clear All
+          Remove All
         </button>
       </form>
 

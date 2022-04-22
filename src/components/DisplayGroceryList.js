@@ -12,7 +12,7 @@ function DisplayGroceryList() {
           <th>Items</th>
           <th>Quantity</th>
           <th>Purchase</th>
-          <th>Delete</th>
+          <th>Remove</th>
         </tr>
         <tr>
           <td></td>
@@ -72,7 +72,7 @@ function DisplayGroceryList() {
                                 setList(newGroceryList);
                               }}
                           > 
-                            Delete
+                            Remove
                           </button>
                         </td>
                       </tr>
