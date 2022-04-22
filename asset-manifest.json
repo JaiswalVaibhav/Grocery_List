@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/grocery_list.github.io/static/css/main.388dd6e4.chunk.css",
-    "main.js": "/grocery_list.github.io/static/js/main.5650ab9f.chunk.js",
-    "main.js.map": "/grocery_list.github.io/static/js/main.5650ab9f.chunk.js.map",
-    "runtime-main.js": "/grocery_list.github.io/static/js/runtime-main.dc97db49.js",
-    "runtime-main.js.map": "/grocery_list.github.io/static/js/runtime-main.dc97db49.js.map",
-    "static/js/2.168e9053.chunk.js": "/grocery_list.github.io/static/js/2.168e9053.chunk.js",
-    "static/js/2.168e9053.chunk.js.map": "/grocery_list.github.io/static/js/2.168e9053.chunk.js.map",
-    "index.html": "/grocery_list.github.io/index.html",
-    "static/css/main.388dd6e4.chunk.css.map": "/grocery_list.github.io/static/css/main.388dd6e4.chunk.css.map",
-    "static/js/2.168e9053.chunk.js.LICENSE.txt": "/grocery_list.github.io/static/js/2.168e9053.chunk.js.LICENSE.txt"
+    "main.css": "/Grocery_List/static/css/main.388dd6e4.chunk.css",
+    "main.js": "/Grocery_List/static/js/main.5650ab9f.chunk.js",
+    "main.js.map": "/Grocery_List/static/js/main.5650ab9f.chunk.js.map",
+    "runtime-main.js": "/Grocery_List/static/js/runtime-main.9ddb9c86.js",
+    "runtime-main.js.map": "/Grocery_List/static/js/runtime-main.9ddb9c86.js.map",
+    "static/js/2.168e9053.chunk.js": "/Grocery_List/static/js/2.168e9053.chunk.js",
+    "static/js/2.168e9053.chunk.js.map": "/Grocery_List/static/js/2.168e9053.chunk.js.map",
+    "index.html": "/Grocery_List/index.html",
+    "static/css/main.388dd6e4.chunk.css.map": "/Grocery_List/static/css/main.388dd6e4.chunk.css.map",
+    "static/js/2.168e9053.chunk.js.LICENSE.txt": "/Grocery_List/static/js/2.168e9053.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc97db49.js",
+    "static/js/runtime-main.9ddb9c86.js",
     "static/js/2.168e9053.chunk.js",
     "static/css/main.388dd6e4.chunk.css",
     "static/js/main.5650ab9f.chunk.js"
