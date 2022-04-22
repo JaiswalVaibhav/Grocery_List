@@ -1,0 +1,96 @@
+.title {
+  width: 100%;
+  color: #1a85e8;
+}
+
+.input-form {
+  margin-top: 3rem;
+}
+
+.grocery-list {
+  margin-top: 3rem;
+}
+
+ul {
+  text-align: left;
+  position: relative;
+  display: inline-block;
+  overflow: visible;
+  cursor: pointer;
+}
+
+#textInput {
+  border-bottom: 1px gray solid;
+  padding: 5px 10px 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  text-align: center;
+}
+
+#numberInput {
+  border-bottom: 1px gray solid;
+  padding: 5px 10px 10px;
+  text-align: center;
+}
+
+.btn {
+  background-color: #1a85e8;
+  margin-left: 20px;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+  border: solid gray 2px;
+  border-radius: 4px;
+  color: rgb(237, 232, 232);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: thistle;
+}
+
+ul.p {
+  color: red !important;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+
+table, td, th {
+  border: 1px solid black;
+  color: black;
+}
+
+th{
+    background-color: rgb(109, 170, 150);
+    padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+td {
+  text-align: center; 
+  height: 25px;
+  cursor: pointer;
+}
+
+button{
+  font-size: small;
+  background-color:rgb(243, 69, 69);
+  margin: 2px;
+  padding: 5px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.purchase_btn{
+  font-size: small;
+  background-color:rgb(124, 243, 69);
+  margin: 2px;
+  padding: 5px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
